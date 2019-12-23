@@ -7,6 +7,7 @@ publication_types: ["0"]
 abstract: ""
 featured: false
 publication: ""
-url_pdf: "https://doi.org/10.17863/CAM.33642"
+url_pdf: "https://www.repository.cam.ac.uk/bitstream/handle/1810/286332/thesis.pdf?sequence=1"
+doi: "https://doi.org/10.17863/CAM.33642"
 ---
 
