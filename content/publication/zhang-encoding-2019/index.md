@@ -7,7 +7,6 @@ publication_types: ["0"]
 abstract: ""
 featured: false
 publication: ""
-tags: ["_tablet"]
 url_pdf: "https://doi.org/10.17863/CAM.33642"
 ---
 
