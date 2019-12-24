@@ -10,7 +10,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 # theme = "minimal"
-theme = "forest"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -23,7 +23,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -91,11 +91,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Engineering, University of Cambridge", city = "Cambridge", postcode = "CB2 1PZ", country = "United Kingdom", country_code = "UK"}
+address = {street = "4th Floor of Baker Building, Department of Engineering, Trumpington Street, University of Cambridge", city = "Cambridge", postcode = "CB2 1PZ", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.198524", longitude = "0.120225"}
+coordinates = {latitude = "52.197930", longitude = "0.120866"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -105,12 +105,13 @@ coordinates = {latitude = "52.198524", longitude = "0.120225"}
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+# appointment_url = "https://cambridge-cneuro.sona-systems.com/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-# contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+contact_links = [
+{icon = "calendar-alt", icon_pack = "fas", name = "Register to participate in our pain experiments", link = "https://cambridge-cneuro.sona-systems.com/"}
+]
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -256,7 +257,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 15
+  zoom = 16
 
 ############################
 ## Marketing

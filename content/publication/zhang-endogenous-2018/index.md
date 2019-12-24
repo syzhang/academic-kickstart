@@ -8,6 +8,8 @@ abstract: "The ultimate aim of closed-loop brain-machine systems for pain is to 
 featured: false
 publication: ""
 url_pdf: "https://www.biorxiv.org/content/early/2018/07/16/369736"
+url_code: "https://github.com/syzhang/coadapt_repo"
+url_dataset: "https://openneuro.org/datasets/ds002036"
 doi: "10.1101/369736"
 ---
 

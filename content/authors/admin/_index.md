@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-9028-6265
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2VXl1ckAAAAJ&hl
@@ -57,9 +57,9 @@ social:
   link: https://github.com/syzhang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +73,4 @@ email: ""
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am a post-doctoral Research Associate at the [Computational and Biological Learning Lab (CBL)](http://learning.eng.cam.ac.uk/Public/), Department of Engineering at University of Cambridge. My current research focuses on understanding how humans learn and adapt to pain and relief, by modelling brain imaging and physiological data with learning algorithms, supervised by [Dr Ben Seymour](http://www.seymourlab.com/). I am also interested in developing brain-computer interface and neurofeedback systems for chronic pain treatment. 
+I am a post-doctoral Research Associate at the [Computational and Biological Learning Lab (CBL)](http://learning.eng.cam.ac.uk/Public/), Department of Engineering at University of Cambridge. My current research focuses on understanding how humans learn and adapt to pain and relief by modelling brain imaging (fMRI/EEG) and physiological data with learning algorithms, supervised by [Dr Ben Seymour](http://www.seymourlab.com/). I am also interested in developing brain-computer interface and decoded neurofeedback systems for chronic pain treatment. 
