@@ -3,7 +3,7 @@
 ```
 git submodule update --init --recursive
 ```
-### remove existing public dir (manual)
+### remove existing public dir (manual, if needed)
 ```
 rm -r public/
 ```
