@@ -14,7 +14,7 @@ role: Post-doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
+- name: University of Oxford
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,4 +73,4 @@ email: ""
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am a post-doctoral Research Associate at the [Computational and Biological Learning Lab (CBL)](http://learning.eng.cam.ac.uk/Public/), Department of Engineering at University of Cambridge. My current research focuses on understanding how humans learn and adapt to pain and relief by modelling brain imaging (fMRI/EEG) and physiological data with learning algorithms, supervised by [Dr Ben Seymour](http://www.seymourlab.com/). I am also interested in developing brain-computer interface and decoded neurofeedback systems for chronic pain treatment. 
+I am a post-doctoral researcher at the [Nuffield Department of Neurosciences (NDCN)](https://www.ndcn.ox.ac.uk/), at University of Oxford. My current research focuses on understanding how humans learn and adapt to pain and relief by modelling brain imaging (fMRI/EEG) and physiological data with learning algorithms, supervised by [Dr Ben Seymour](http://www.seymourlab.com/). I am also interested in developing brain-computer interface and decoded neurofeedback systems for chronic pain treatment. 

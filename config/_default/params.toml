@@ -86,16 +86,17 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "echo c3ozMjFAY2FtLmFjLnVrCg== | base64 --decode"
+email = "echo c3V5aS56aGFuZ0BuZGNuLm94LmFjLnVrCg== | base64 --decode"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4th Floor of Baker Building, Department of Engineering, Trumpington Street, University of Cambridge", city = "Cambridge", postcode = "CB2 1PZ", country = "United Kingdom", country_code = "UK"}
+# address = {street = "4th Floor of Baker Building, Department of Engineering, Trumpington Street, University of Cambridge", city = "Cambridge", postcode = "CB2 1PZ", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.197930", longitude = "0.120866"}
+# coordinates = {latitude = "52.197930", longitude = "0.120866"}
+coordinates = {latitude = "51.765170", longitude = "-1.220530"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -109,9 +110,9 @@ office_hours = []
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-{icon = "calendar-alt", icon_pack = "fas", name = "Register to participate in our pain experiments", link = "https://cambridge-cneuro.sona-systems.com/"}
-]
+# contact_links = [
+# {icon = "calendar-alt", icon_pack = "fas", name = "Register to participate in our pain experiments", link = "https://cambridge-cneuro.sona-systems.com/"}
+# ]
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
